@@ -1,12 +1,12 @@
 
-# 🔐 Task 4 – Firewall Configuration using UFW on Kali Linux
+#  Task 4 – Firewall Configuration using UFW on Kali Linux
 
-## 🎯 Objective
+## Objective
 Configure and test basic firewall rules using UFW on Kali Linux to understand how firewalls control inbound and outbound traffic.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Kali Linux (2023 or later)
 - UFW (Uncomplicated Firewall)
 - Terminal
@@ -14,7 +14,7 @@ Configure and test basic firewall rules using UFW on Kali Linux to understand ho
 
 ---
 
-## ⚙️ Steps Performed
+## Steps Performed
 
 ```bash
 # Step 1: Check if UFW is installed and its status
